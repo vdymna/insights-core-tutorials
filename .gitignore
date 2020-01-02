@@ -20,7 +20,7 @@ cover/
 build/
 docs/_build
 env3*/
-mycomponents/
+#mycomponents/
 dist
 pyvenv.cfg
 .vscode
